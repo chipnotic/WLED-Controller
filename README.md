@@ -4,7 +4,7 @@ Controller PCB for WLED, dual strip output, relay power control, option button.
 
 ## BOM
 ```
-**Ref	Qty	 Value			Datasheet	 													Digikey	 	RS Code**
+Ref	Qty	 Value			Datasheet	 													Digikey	 	RS Code
 D1	1	1N4007			https://docs.rs-online.com/9d79/0900766b81383fbb.pdf									1N4007-TPMSCT-ND	738-4724
 D2	1	STPS10L25D		https://docs.rs-online.com/3abc/0900766b812940ee.pdf									497-2738-5-ND		795-8795
 J1-6 	6	0.1" Pinheader 3pin
