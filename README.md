@@ -16,8 +16,6 @@ R1	1	4k3			~															A142719CT-ND		148-657
 RL1	1	Omron G5LE-1-DC5	https://docs.rs-online.com/ab22/0900766b8132a177.pdf									Z1014-ND		808-8465
 U1	1	74125			https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd74hc125	296-2089-5-ND		634-596
 U2	1	WeMos_D1_mini		https://wiki.wemos.cc/products:d1:d1_mini#documentation	
-
-Assitionally some 0.1" Pin Headers
 ```
 
 
